@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lucidworks.spark:spark-solr:3.6.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lucidworks/spark/spark-solr/3.6.6/spark-solr-3.6.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lucidworks/spark/spark-solr/3.6.6/spark-solr-3.6.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lucidworks/spark/spark-solr/3.6.6/spark-solr-3.6.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
