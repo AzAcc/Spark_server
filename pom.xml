@@ -17,7 +17,7 @@
         <spark.version>2.4.4</spark.version>
         <jackson.core.version>2.9.9</jackson.core.version>
         <hbase-client.version>2.1.5</hbase-client.version>
-        <hadoop-client.version>3.2.0</hadoop-client.version>
+        <hadoop-client.version>3.2.2</hadoop-client.version>
         <lombok.version>1.18.8</lombok.version>
         <hbase-spark.version>2.1.0-cdh6.2.0</hbase-spark.version>
         <spark-solr.version>3.6.6</spark-solr.version>
